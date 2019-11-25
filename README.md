@@ -3,4 +3,4 @@
   <p>The next generation password generator 🔐</p>
 </div>
 
-<a src="https://app.creately.com/diagram/m2RYUonx1pU">Explanation</a>
+<a href="https://app.creately.com/diagram/m2RYUonx1pU">Explanation</a>
