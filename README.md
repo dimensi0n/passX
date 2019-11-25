@@ -1,2 +1,2 @@
 # passX
-The next generation password simulator 🔐
+The next generation password generator 🔐
